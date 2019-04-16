@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /bitbug_favicon.ico
+
+Sitemap: https://godchpan1.github.io/sitemap.xml
